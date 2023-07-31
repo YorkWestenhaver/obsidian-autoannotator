@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-auto-annotator",
+	"name": "Obsidian Auto Annotator",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically creates annotator files in your obsidian folder from the PDFs or EPUBs.",
+	"author": "York West",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
